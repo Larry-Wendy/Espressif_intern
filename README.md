@@ -1,4 +1,4 @@
-# Espressif_intern
-
-### Day1: 第一次修改内容
-
+# Espressif Internship Notes
+---
+### Records working progress, learning notes and problem solutions
+---
